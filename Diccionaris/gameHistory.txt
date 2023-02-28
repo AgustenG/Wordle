@@ -1,0 +1,6 @@
+//True: Hard, False: Easy //
+·Name:holis / Word:ATORÓ,DERROTA / Tries left:0 / Lang: Español / Mode: True
+·Name:pepesito / Word:JIÑEN,DERROTA / Tries left:0 / Lang: Español / Mode: True
+·Name:pepes / Word:DRAGÀ,DERROTA / Tries left:0 / Lang: Català / Mode: True
+·Name:PEPES / Word:AHOYO,DERROTA / Tries left:0 / Lang: Español / Mode: False
+·Name:pedro / Word:BUIDO,DERROTA / Tries left:0 / Lang: Español / Mode: False
